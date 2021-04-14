@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/*.annoy
+data/*embedding.tsv
+data/*truth.tsv
